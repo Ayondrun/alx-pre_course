@@ -1,1 +1,1 @@
-README.md how to set up github
+README.md how to set up githuds
